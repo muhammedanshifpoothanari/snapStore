@@ -59,8 +59,9 @@ export default function PhotoGallery() {
       {/* Header */}
       <header className="sticky top-0 z-10 bg-white/80 backdrop-blur-sm border-b">
         <div className="container mx-auto px-4 py-4">
-          <h1 className="text-2xl font-semibold">SnapStore</h1>
+          <h1 className="text-2xl font-semibold">SnapStore By NewPack</h1>
         </div>
+    
       </header>
 
       {/* Photo Grid */}
